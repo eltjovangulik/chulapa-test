@@ -4,6 +4,7 @@ title: Titel pagina
 header_type: hero
 subtitle: subtitel
 og_image: /assets/img/site/banner-blog.jpg
+header_img: /assets/img/site/banner-blog.jpg
 ---
 
 Dit is de index pagina?
