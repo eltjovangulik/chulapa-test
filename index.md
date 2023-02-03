@@ -1,7 +1,8 @@
 ---
 layout: default
 title: The performance Gurus
-header_type: hero
+# header_type: hero
+header_type: splash
 subtitle: We _are_ performance
 og_image: /assets/img/site/banner-blog.jpg
 header_img: /assets/img/site/banner-blog.jpg
