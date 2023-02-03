@@ -114,7 +114,7 @@ navbar:
   - title   : Customers
     url     : https://dieghernan.github.io/chulapa/docs/01-install
   - title   : About us
-    url     : /_posts/2019-08-03-landing-page.md
+    url     : /posts/2019-08-03-landing-page.md
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
